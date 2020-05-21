@@ -1,0 +1,5 @@
+scl-parent/test/
+scl-parent/target/
+.idea
+*.iml
+
