@@ -13,5 +13,7 @@ public class GitDemo {
     public static void main(String[] args){
         System.out.println("git hello..................");
         System.out.println("create branches..................");
+        System.out.println("master  hello..................");
+        System.out.println("master branches..................");
     }
 }
