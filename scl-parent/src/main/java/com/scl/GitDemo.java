@@ -15,5 +15,8 @@ public class GitDemo {
         System.out.println("create branches..................");
         System.out.println("master  hello..................");
         System.out.println("master branches..................");
+        System.out.println("dev ..........data");
+        System.out.println("dev ..........add");
+
     }
 }
